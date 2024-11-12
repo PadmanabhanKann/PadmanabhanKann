@@ -37,9 +37,9 @@ Outside of research and coding, I love cooking, discovering new cuisines, and ta
 ---
 
 ### 📫 Get in Touch
-- **Email**: [your-email@domain.com](mailto:your-email@domain.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Twitter**: [Your Twitter](https://twitter.com/your-profile)
+- **Email**: [padmanabhankannan12@gmail.com](mailto:padmanabhankannan12@gmail.com)
+- **LinkedIn**: [Padmanabhan Kannan](www.linkedin.com/in/padmanabhankannan)
+- **Twitter**: [Padma_nabhan_]((https://x.com/padma_nabhan_))
 
 ---
 
@@ -48,9 +48,5 @@ Here's a snapshot of some of my work and projects:
 1. **Population Genetics Simulation**: Python-based model simulating evolutionary fitness landscapes using the **Wright-Fisher algorithm**.
 2. **Genome Visualization Tool**: Interactive circular genome visualization for **mutation analysis** using **NGCircos**.
 
+ Reach out if you'd like to collaborate on a project in biology, bioinformatics, or data science!
 
-Feel free to check out my repositories to see more of my work or reach out if you'd like to collaborate on a project in biology, bioinformatics, or data science!
-
----
-
-Thanks for visiting my GitHub, and happy coding! 😊
